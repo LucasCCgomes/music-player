@@ -13,7 +13,7 @@ const durTime = document.querySelector('#durTime')
 
 // Song titles / Títulos
 
-const songs = ['Never Surrender - Anno Domini Beats', 'Sinister - Anno Domini Beats', 'Skylines - Anno Domini Beats', 'Thats What It Takes instrumental NEFFEX', 'The Itch Instrumental NEFFEX']
+const songs = ['Never Surrender - Anno Domini Beats', 'Sinister - Anno Domini Beats', 'Skylines - Anno Domini Beats', 'Thats What It Takes instrumental NEFFEX', 'The Itch Instrumental NEFFEX', 'Pray - Anno Domini Beats', 'Intellect - Yung Logos', 'Break Your Lock and Key - Mini Vandals', 'March On - Ethan Meixsell'] 
 
 
 let songIndex = 2
