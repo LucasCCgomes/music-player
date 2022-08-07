@@ -2,6 +2,7 @@
     box-sizing: border-box;
 }
 body {
+    background-image: linear-gradient(#ffff, rgb(97, 97, 189));
     height: 100vh;
     margin: 0;
     font-family: sans-serif;
@@ -118,6 +119,12 @@ body {
     z-index: 0;
 }
 
+@media screen and (max-width: 600px) {
+       .music-info {
+        padding: 5px 10px 10px 100px;
+    }
+}
+
 .music-info h4 {
     margin: 0;
 }
@@ -131,7 +138,7 @@ body {
     background: rgb(139, 177, 219);
     border-radius: 5px;
     cursor: pointer;
-    margin: 10px 0;
+    margin: 4.5px 0;
     height: 4px;
     width: 100%;
     position: relative;
